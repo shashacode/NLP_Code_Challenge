@@ -77,8 +77,8 @@ LawPavilion/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/lawpavillion-nlp.git
-cd lawpavillion-nlp
+git clone https://github.com/shashacode/NLP_Code_Challenge.git
+cd LawPavillion
 ```
 
 ### 2. Install dependencies
